@@ -1,0 +1,18 @@
+--- Classification Report on the Test Set ---
+
+                                          precision    recall  f1-score   support
+
+                   Controllore e Isolata     0.7692    0.6667    0.7143        15
+             Dominante e Schiavo emotivo     0.6667    0.4000    0.5000        15
+           Geloso-Ossessivo e Sottomessa     0.7778    0.4667    0.5833        15
+       Manipolatore e Dipendente emotiva     0.7857    0.7333    0.7586        15
+                    Narcisista e Succube     0.5000    0.6000    0.5455        15
+Perfezionista Critico e Insicura Cronica     0.6316    0.8000    0.7059        15
+              Persona violenta e Succube     0.6000    0.6000    0.6000        15
+                Psicopatico e Adulatrice     0.7500    0.8000    0.7742        15
+             Sadico-Crudele e Masochista     0.5217    0.8000    0.6316        15
+              Vittimista e Croccerossina     0.7857    0.7333    0.7586        15
+
+                                accuracy                         0.6600       150
+                               macro avg     0.6788    0.6600    0.6572       150
+                            weighted avg     0.6788    0.6600    0.6572       150

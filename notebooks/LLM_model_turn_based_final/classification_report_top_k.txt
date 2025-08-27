@@ -1,0 +1,12 @@
+                                         Precision Recall (Top-1 Acc) F1-Score Top-2 Accuracy Top-3 Accuracy  Support
+Class                                                                                                                
+Controllore e Isolata                       62.50%             66.67%   64.52%         86.67%         86.67%       15
+Dominante e Schiavo emotivo                 45.00%             81.82%   58.06%         81.82%        100.00%       11
+Geloso-Ossessivo e Sottomessa               50.00%             62.50%   55.56%         75.00%         87.50%        8
+Manipolatore e Dipendente emotiva           71.43%             62.50%   66.67%         68.75%         81.25%       16
+Narcisista e Succube                        72.73%             53.33%   61.54%         86.67%        100.00%       15
+Perfezionista Critico e Insicura Cronica    80.00%             75.00%   77.42%         81.25%         81.25%       16
+Persona violenta e Succube                  80.00%             60.00%   68.57%         75.00%         85.00%       20
+Psicopatico e Adulatrice                    68.18%             88.24%   76.92%         94.12%         94.12%       17
+Sadico-Crudele e Masochista                 75.00%             60.00%   66.67%         80.00%         93.33%       15
+Vittimista e Croccerossina                  73.33%             64.71%   68.75%         76.47%         82.35%       17
