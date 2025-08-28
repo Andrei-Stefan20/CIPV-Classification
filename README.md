@@ -1,7 +1,3 @@
-Of course. Here is a more concise version in English, focusing on the project's structure, the problem, and the main task of single-label classification.
-
------
-
 # Hierarchical Text Classification for Toxic Conversations
 
 This repository contains the code for a project focused on classifying toxic relational dynamics in conversations. The primary objective is to address the challenges of multi-class, single-label text classification in a domain where class definitions are nuanced and linguistically similar.
