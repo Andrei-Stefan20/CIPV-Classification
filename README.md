@@ -10,7 +10,7 @@ The main goal is to assign a single label to a given conversation, identifying t
 
 -----
 
-## The Problem: Semantic Overlap
+## Semantic Overlap
 
 A key challenge in this domain is the high degree of **semantic overlap** between classes. Different categories of toxic behavior often share similar vocabulary and phrasing, which makes it difficult for standard classification models to distinguish between them effectively. This project explores a hierarchical architecture specifically designed to mitigate this issue.
 
